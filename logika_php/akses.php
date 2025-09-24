@@ -5,7 +5,7 @@
 
 <?php
 
-$username = "wais";
+$username = "yazid";
 $role = "user";
 
 if ($username == "wais" && $role == "admin"){
